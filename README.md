@@ -105,3 +105,7 @@ This creates an optimized build in the `build` folder that can be deployed to an
 ## License
 
 This project is created for educational purposes as part of a React capstone assignment.
+
+## Author
+
+Demayne Govender
