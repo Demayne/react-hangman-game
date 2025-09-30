@@ -106,7 +106,13 @@ This creates an optimized build in the `build` folder that can be deployed to an
 
 This project is created for educational purposes as part of a React capstone assignment.
 
+<<<<<<< HEAD
 
 ## Author
 
 Demayne Govender
+=======
+## Author
+
+Demayne Govender
+>>>>>>> 6ba732a81e6fb2240053904c3ea0ab6a641259c2
