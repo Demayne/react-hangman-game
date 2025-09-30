@@ -1,0 +1,17 @@
+.word-display {
+  letter-spacing: 0.35rem;
+  font-size: 1.75rem;
+  font-weight: 800;
+  text-shadow: 0 0 12px rgba(124,58,237,0.35);
+}
+
+.word-letter {
+  border-bottom: 2px solid rgba(255,255,255,0.15);
+  padding: 0 6px;
+  display: inline-block;
+  min-width: 20px;
+  text-align: center;
+}
+
+
+

@@ -1,0 +1,57 @@
+Resources and References Used for Hangman React Game
+
+## Documentation & Guides
+- React Official Documentation: https://reactjs.org/docs/getting-started.html
+- Create React App Documentation: https://create-react-app.dev/docs/getting-started/
+- Bootstrap Documentation: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+- React-Bootstrap Documentation: https://react-bootstrap.github.io/
+
+## Folder Structure Reference
+- Web Dev Simplified - How To Structure React Projects: https://blog.webdevsimplified.com/2022-07/react-folder-structure/
+- Advanced folder structure guidelines followed for feature-based organization
+
+## Code Style & Best Practices
+- Google JavaScript Style Guide: https://google.github.io/styleguide/jsguide.html
+- React Best Practices: https://reactjs.org/docs/thinking-in-react.html
+- JSDoc Documentation: https://jsdoc.app/
+
+## Game Assets
+- Dictionary.txt: Provided word list for random word selection
+- Hangman Drawings: state1.GIF through state11.GIF for progressive hangman display
+- Images stored in src/assets/hangmandrawings/
+
+## Technical Resources
+- React Context API: https://reactjs.org/docs/context.html
+- React Hooks: https://reactjs.org/docs/hooks-intro.html
+- CSS Grid Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+- Fetch API: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+## Development Tools
+- Node.js: https://nodejs.org/
+- npm: https://www.npmjs.com/
+- VS Code: https://code.visualstudio.com/
+
+## Deployment Resources
+- GitHub Pages: https://pages.github.com/
+- Netlify: https://www.netlify.com/
+- Vercel: https://vercel.com/
+
+## Game Design Inspiration
+- Classic Hangman game mechanics
+- Modern web UI/UX principles
+- Responsive design patterns
+- Accessibility guidelines (ARIA attributes)
+
+## Libraries Used
+- React 18.2.0
+- React-DOM 18.2.0
+- Bootstrap 5.3.2
+- React-Bootstrap 2.8.0
+
+## File Structure Implementation
+Following the advanced folder structure from Web Dev Simplified:
+- Features-based organization
+- Context providers for state management
+- Service layer for external data
+- Component composition patterns
+- Public API exposure through index.js files
