@@ -1,8 +1,12 @@
-# Hangman Game
+# React Hangman Game 🎮
 
-A React-based Hangman word guessing game built with Create React App. Players guess letters to reveal a hidden word while avoiding too many incorrect guesses that result in the hangman being drawn.
+A modern, interactive Hangman word guessing game built with React 19 and Bootstrap 5. Players guess letters to reveal a hidden word while avoiding too many incorrect guesses that result in the hangman being drawn.
 
-## Game Rules
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![React](https://img.shields.io/badge/React-19.1.1-blue.svg)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-purple.svg)
+
+## 🎯 Game Rules
 
 1. **Objective**: Guess the hidden word by selecting letters from the on-screen keyboard
 2. **Gameplay**: 
@@ -14,7 +18,7 @@ A React-based Hangman word guessing game built with Create React App. Players gu
 4. **Losing**: Make 10 incorrect guesses and the hangman is complete
 5. **Restart**: Click the "Restart" button to play again with a new word
 
-## Features
+## ✨ Features
 
 - **Interactive Components**: On-screen keyboard, word display, hangman drawing
 - **Visual Feedback**: Letters change appearance when guessed, hangman drawing progresses
@@ -22,19 +26,21 @@ A React-based Hangman word guessing game built with Create React App. Players gu
 - **Help System**: Built-in help modal with game instructions
 - **Responsive Design**: Works on desktop and mobile devices
 - **Modern UI**: Clean, intuitive interface with Bootstrap styling
+- **React Context API**: Efficient state management across components
+- **Custom Hooks**: Optimized performance with React hooks
 
-## Installation & Setup
+## 🚀 Installation & Setup
 
 ### Prerequisites
-- Node.js (version 14 or higher)
-- npm (comes with Node.js)
+- Node.js (version 18 or higher)
+- npm (version 9 or higher)
 
 ### Installation Steps
 
-1. **Clone or download the project**
+1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd hangman
+   git clone https://github.com/Demayne/React-Hangman-Game.git
+   cd React-Hangman-Game
    ```
 
 2. **Install dependencies**
@@ -61,8 +67,27 @@ npm run build
 
 This creates an optimized build in the `build` folder that can be deployed to any static hosting service.
 
+### Deployment
 
-## Technical Details
+The app can be deployed to various platforms:
+
+**GitHub Pages:**
+```bash
+npm install --save-dev gh-pages
+```
+Add to `package.json`:
+```json
+"homepage": "https://Demayne.github.io/React-Hangman-Game",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+```
+Then run: `npm run deploy`
+
+**Netlify/Vercel:** Simply connect your GitHub repo and deploy automatically.
+
+## 🔧 Technical Details
 
 - **Framework**: React 18 with Create React App
 - **Styling**: Bootstrap 5 + custom CSS
@@ -79,7 +104,26 @@ This creates an optimized build in the `build` folder that can be deployed to an
 4. **GameStatus**: Displays mistake count, win/loss messages, and restart button
 5. **HelpModal**: Modal dialog with game instructions
 
-## Development
+## 🎨 Project Structure
+
+```
+hangman/
+├── public/               # Static assets
+├── src/
+│   ├── assets/          # Images and dictionary
+│   ├── components/      # Reusable components
+│   ├── features/        # Feature-based modules
+│   │   └── hangman/     # Hangman game feature
+│   │       ├── components/  # Game components
+│   │       ├── context/     # State management
+│   │       └── css/         # Component styles
+│   ├── hooks/           # Custom React hooks
+│   ├── services/        # Business logic
+│   └── App.js           # Main app component
+└── package.json         # Dependencies
+```
+
+## 💻 Development
 
 ### Available Scripts
 
@@ -95,24 +139,28 @@ This creates an optimized build in the `build` folder that can be deployed to an
 - Meaningful variable and component names
 - Consistent file organization following React best practices
 
-## Browser Support
+## 🌐 Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## License
+## 📝 License
 
-This project is created for educational purposes as part of a React capstone assignment.
+This project is licensed under the MIT License.
 
-<<<<<<< HEAD
+## 👨‍💻 Author
 
-## Author
+**Demayne**
+- GitHub: [@Demayne](https://github.com/Demayne)
+- Repository: [React-Hangman-Game](https://github.com/Demayne/React-Hangman-Game)
 
-Demayne Govender
-=======
-## Author
+## 🤝 Contributing
 
-Demayne Govender
->>>>>>> 6ba732a81e6fb2240053904c3ea0ab6a641259c2
+Contributions, issues, and feature requests are welcome!
+
+## ⭐ Show Your Support
+
+Give a ⭐️ if you like this project!
+
