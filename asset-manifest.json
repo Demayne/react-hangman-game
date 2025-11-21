@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Demayne/React-Hangman-Game/static/css/main.48745ff6.css",
-    "main.js": "/Demayne/React-Hangman-Game/static/js/main.d6c134b2.js",
-    "static/js/453.8d5c42e1.chunk.js": "/Demayne/React-Hangman-Game/static/js/453.8d5c42e1.chunk.js",
-    "static/media/dictionary.txt": "/Demayne/React-Hangman-Game/static/media/dictionary.3c5b80365b0a3c5a65d7.txt",
-    "static/media/state11.GIF": "/Demayne/React-Hangman-Game/static/media/state11.43c44828683877de319d.GIF",
-    "static/media/state9.GIF": "/Demayne/React-Hangman-Game/static/media/state9.b3cc6a935de42be97c69.GIF",
-    "static/media/state8.GIF": "/Demayne/React-Hangman-Game/static/media/state8.0e27dc2f6c9fdf7b0707.GIF",
-    "static/media/state7.GIF": "/Demayne/React-Hangman-Game/static/media/state7.806705960ad2dfb878ca.GIF",
-    "static/media/state6.GIF": "/Demayne/React-Hangman-Game/static/media/state6.6748b91214f61762397d.GIF",
-    "index.html": "/Demayne/React-Hangman-Game/index.html",
-    "static/media/state5.GIF": "/Demayne/React-Hangman-Game/static/media/state5.3400158bb87bf7b18449.GIF",
-    "static/media/state4.GIF": "/Demayne/React-Hangman-Game/static/media/state4.b28f6d17127899f05793.GIF",
-    "static/media/state3.GIF": "/Demayne/React-Hangman-Game/static/media/state3.5da4c74e65f9258e11e8.GIF",
-    "static/media/state2.GIF": "/Demayne/React-Hangman-Game/static/media/state2.fa8ee2ae2c77b5581cd5.GIF",
-    "static/media/state1.GIF": "/Demayne/React-Hangman-Game/static/media/state1.18132e835db9e2f8e497.GIF",
-    "main.48745ff6.css.map": "/Demayne/React-Hangman-Game/static/css/main.48745ff6.css.map",
-    "main.d6c134b2.js.map": "/Demayne/React-Hangman-Game/static/js/main.d6c134b2.js.map",
-    "453.8d5c42e1.chunk.js.map": "/Demayne/React-Hangman-Game/static/js/453.8d5c42e1.chunk.js.map"
+    "main.css": "/react-hangman-game/static/css/main.48745ff6.css",
+    "main.js": "/react-hangman-game/static/js/main.66907da0.js",
+    "static/js/453.8d5c42e1.chunk.js": "/react-hangman-game/static/js/453.8d5c42e1.chunk.js",
+    "static/media/dictionary.txt": "/react-hangman-game/static/media/dictionary.3c5b80365b0a3c5a65d7.txt",
+    "static/media/state11.GIF": "/react-hangman-game/static/media/state11.43c44828683877de319d.GIF",
+    "static/media/state9.GIF": "/react-hangman-game/static/media/state9.b3cc6a935de42be97c69.GIF",
+    "static/media/state8.GIF": "/react-hangman-game/static/media/state8.0e27dc2f6c9fdf7b0707.GIF",
+    "static/media/state7.GIF": "/react-hangman-game/static/media/state7.806705960ad2dfb878ca.GIF",
+    "static/media/state6.GIF": "/react-hangman-game/static/media/state6.6748b91214f61762397d.GIF",
+    "static/media/state5.GIF": "/react-hangman-game/static/media/state5.3400158bb87bf7b18449.GIF",
+    "index.html": "/react-hangman-game/index.html",
+    "static/media/state4.GIF": "/react-hangman-game/static/media/state4.b28f6d17127899f05793.GIF",
+    "static/media/state3.GIF": "/react-hangman-game/static/media/state3.5da4c74e65f9258e11e8.GIF",
+    "static/media/state2.GIF": "/react-hangman-game/static/media/state2.fa8ee2ae2c77b5581cd5.GIF",
+    "static/media/state1.GIF": "/react-hangman-game/static/media/state1.18132e835db9e2f8e497.GIF",
+    "main.48745ff6.css.map": "/react-hangman-game/static/css/main.48745ff6.css.map",
+    "main.66907da0.js.map": "/react-hangman-game/static/js/main.66907da0.js.map",
+    "453.8d5c42e1.chunk.js.map": "/react-hangman-game/static/js/453.8d5c42e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48745ff6.css",
-    "static/js/main.d6c134b2.js"
+    "static/js/main.66907da0.js"
   ]
 }
