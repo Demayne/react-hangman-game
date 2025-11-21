@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/Demayne/React-Hangman-Game/issues"
   },
-  "homepage": "https://github.com/Demayne/React-Hangman-Game",
+  "homepage": "https://demayne.github.io/react-hangman-game",
   "keywords": [
     "hangman",
     "game",
@@ -61,5 +61,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
